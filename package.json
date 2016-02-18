@@ -7,6 +7,7 @@
   "bugs": "https://github.com/lrsjng/jquery-qrcode/issues",
   "author": "Lars Jung <lrsjng@gmail.com> (http://larsjung.de)",
   "license": "MIT",
+  "main": "dist/jquery.qrcode.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/lrsjng/jquery-qrcode.git"
